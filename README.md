@@ -74,6 +74,7 @@ Get all menu items:
 
 Get menu items by category:
 
+```
 {
   menu(category: "APPETIZERS") {
     category
@@ -82,4 +83,4 @@ Get menu items by category:
     price
   }
 }
-
+```

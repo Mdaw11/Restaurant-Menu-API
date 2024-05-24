@@ -15,7 +15,7 @@ Follow these instructions to set up and run the API locally.
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone <git@github.com:Mdaw11/Restaurant-Menu-API.git>
 
 
 2. Navigate to the project directory:
